@@ -1,5 +1,5 @@
 ### This is a basic workflow
-name: GitHub Actions Demo
+name: GitHub_Actions_Demo
 
 ### Controls when the workflow will run
 on:
