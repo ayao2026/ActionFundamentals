@@ -1,7 +1,7 @@
-# This is a basic workflow
+### This is a basic workflow
 name: GitHub Actions Demo
 
-# Controls when the workflow will run
+### Controls when the workflow will run
 on:
    # Triggers
    push:
