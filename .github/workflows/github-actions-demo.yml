@@ -5,8 +5,7 @@ on:
   # Triggers
   push:
     branches: [ main ]
-    paths-ignore:
-    - .github/**
+    paths-ignore: [.github/**]
   pull_request:
     branches: [ main ]
   schedule:
