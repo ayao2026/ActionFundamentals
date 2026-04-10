@@ -1,4 +1,4 @@
-name: GitHub_Actions_Demo2
+name: GitHub_Actions_Demo
 
 on:
   push:
