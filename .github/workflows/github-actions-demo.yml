@@ -1,8 +1,6 @@
-name: GitHub_Actions_Demo
+name: GitHub_Actions_Demo2
 
-### Controls when the workflow will run
 on:
-  # Triggers
   push:
     branches: [ main ]
     paths-ignore: [.github/**]
